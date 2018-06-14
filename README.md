@@ -1,2 +1,2 @@
 # effective-octo-train
-CS313 - jsnode projects
+CS313 - nodejs projects
