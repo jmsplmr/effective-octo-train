@@ -1,0 +1,26 @@
+{
+  "name": "cs313-nodejs",
+  "version": "1.0.0",
+  "description": "Projects and files for cs313 nodejs ",
+  "main": "08prove.js",
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsplmr/effective-octo-train.git"
+  },
+  "author": "James Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmsplmr/effective-octo-train/issues"
+  },
+  "homepage": "https://github.com/jmsplmr/effective-octo-train#readme"
+}

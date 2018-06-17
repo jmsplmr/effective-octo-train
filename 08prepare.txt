@@ -1,0 +1,1 @@
+For my project 2 I want to flesh out my idea for a disc golf application. I want to take my current functionality, rework for node js and async, and add a shop where users can buy and sell used equipment. Also include roles where users with admin or other rights are able to change aspects on the website.
